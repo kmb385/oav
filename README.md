@@ -80,7 +80,7 @@ Options:
 - Semantic validation
   Semantic validation enforces correctness on the swagger specific elements. Such as paths and operations. Ensure the element definition meet the [OpenApi 2.0 specification](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgithub.com%2FOAI%2FOpenAPI-Specification%2Fblob%2Fmaster%2Fversions%2F2.0.md&data=02%7C01%7Craychen%40microsoft.com%7C8455b2c9dfe54f52d98c08d7cf1aad66%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637205585798284783&sdata=zZrZzk4emkODos7%2BqtMT4RG0ipuFiV7uC0lCWeYdRPE%3D&reserved=0).
 - Model validation
-  Model validation enforces correctness between example and swagger. It checks whether definitions for request parameters and responses, match an expected input/output payload of the service.
+
   
   Examples of issues detected: 
       - Required properties not sent in requests or responses

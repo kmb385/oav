@@ -80,9 +80,7 @@ Options:
 - Semantic validation
 
 - Model validation
-
-  
-  Examples of issues detected: 
+    Examples of issues detected: 
       - Required properties not sent in requests or responses
       - Defined types not matching the value provided in the payload
       - Constraints on properties not met
